@@ -1,0 +1,6 @@
+.signInBox {
+  transform: translateY(20px);
+}
+.invalid input {
+  color: red;
+}

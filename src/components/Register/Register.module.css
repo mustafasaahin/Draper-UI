@@ -1,0 +1,6 @@
+.registerBox {
+  transform: translateY(20px);
+}
+.radioLabel label {
+  color: antiquewhite !important;
+}
